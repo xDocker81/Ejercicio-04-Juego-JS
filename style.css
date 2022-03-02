@@ -1,0 +1,23 @@
+.grid{
+    width: 400px;
+    height: 600px;
+    background-color: black;
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+    
+}
+
+.personaje{
+    width: 60px;
+    height: 85px;
+    background-color: white;
+    position: absolute;
+}
+
+.plataforma{
+    width: 85px;
+    height: 15px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+}
